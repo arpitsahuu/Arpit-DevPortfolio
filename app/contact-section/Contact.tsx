@@ -103,7 +103,7 @@ const Contact = () => {
               aria-label="View GitHub Profile"
             >
               <AnimatedTitle
-                text={"GH"}
+                text={"GITHUB"}
                 className={
                   "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }
@@ -117,7 +117,7 @@ const Contact = () => {
               aria-label="View LinkedIn Profile"
             >
               <AnimatedTitle
-                text={"LN"}
+                text={"LINKEDIN"}
                 className={
                   "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                 }

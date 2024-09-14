@@ -33,7 +33,7 @@ const Hero = () => {
           </Link>
         </div>
 
-        <div className="flex gap-10 text-[#e4ded7] sm:gap-12 md:gap-14 lg:gap-14">
+        <div className="flex gap-8 text-[#e4ded7] sm:gap-12 md:gap-14 lg:gap-14">
           <Link
             href="https://github.com/arpitsahuu"
             target="_blank"
@@ -43,7 +43,7 @@ const Hero = () => {
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              GH
+              GITHUB
             </motion.p>
           </Link>
           <Link
@@ -55,7 +55,7 @@ const Hero = () => {
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              LN
+              LINKEDIN
             </motion.p>
           </Link>
           <Link
@@ -67,7 +67,7 @@ const Hero = () => {
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              TW
+              TWITTER
             </motion.p>
           </Link>
         </div>

@@ -18,7 +18,7 @@ export const devProjects = [
     technologies: ["Next.JS", "Node", "Express","Typescript", "MongoDB", "Redux", "Redis", "Soket.io"],
     github: "https://github.com/arpitsahuu/Learnify.git",
     demo: "https://learnify-weld-three.vercel.app/",
-    image: require(".//../../public/projects/propellent-new-flip.png"),
+    image: require(".//../../public/projects/learnify.png"),
     available: true,
   },
   {
@@ -29,7 +29,7 @@ export const devProjects = [
     technologies: ["Next.js", "Typescript", "Node",],
     demo: "https://satisfiedjob.com/",
     // github: "https://github.com/arpitsahuu/Learnify.git",
-    image: require(".//../../public/projects/flixify-flip.png"),
+    image: require(".//../../public/projects/satisfiedjob.png"),
     available: true,
   },
   {
@@ -51,7 +51,7 @@ export const devProjects = [
     technologies: ["Next.JS", "Node", "Express.Js", "MongoDB", "Image Kit","Redux" ],
     github: "https://github.com/arpitsahuu/JobNex.git",
     // demo: "http://alpaca-image-generator-beta.vercel.app",
-    image: require(".//../../public/projects/alpaca-flip.png"),
+    image: require(".//../../public/projects/jobnex.png"),
     available: true,
   },
 
