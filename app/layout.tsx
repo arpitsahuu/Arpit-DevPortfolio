@@ -13,7 +13,7 @@ const syne = Syne({
 export const metadata: Metadata = {
   title: "Arpit Sahu — Full Stack Engineer",
   description:
-    "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    "Full Stack Developer With Over 2 Years Of Experience In Crafting Scalable And High-Performance Web Applications.",
   generator: "Next.js",
   applicationName: "Arpit Sahu",
   keywords: [

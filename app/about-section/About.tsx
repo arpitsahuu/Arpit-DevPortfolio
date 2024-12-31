@@ -35,13 +35,13 @@ const About = () => {
             />
             <AnimatedBody
               text={
-                "At Micro Technology, I’ve refined my skills in building web applications, designing robust databases, and deploying projects on AWS and Hostinger, focusing on performance optimization, user experience, and clean TypeScript code."
+                "At Worldsoft IT Solution, I’ve refined my skills in building web applications, designing robust databases, and deploying projects on AWS and Hostinger, focusing on performance optimization, user experience, and clean TypeScript code."
               }
               className={"hidden"}
             />
             <AnimatedBody
               text={
-                "At  Micro Technology, I’ve refined my skills in building web applications, designing robust databases, and deploying projects on AWS and Hostinger, focusing on performance optimization, user experience, and clean TypeScript code."
+                "At  Worldsoft IT Solution, I’ve refined my skills in building web applications, designing robust databases, and deploying projects on AWS and Hostinger, focusing on performance optimization, user experience, and clean TypeScript code."
               }
             />
             {/* <AnimatedBody
