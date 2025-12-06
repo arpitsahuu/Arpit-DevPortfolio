@@ -25,7 +25,7 @@ const About = () => {
           <div className="mb-10 flex w-[100%] flex-col gap-4 text-[18px] font-medium  leading-relaxed tracking-wide text-[#e4ded7] md:mb-16 md:gap-6 md:text-[20px] md:leading-relaxed lg:mb-16  lg:max-w-[90%] lg:text-[24px] ">
             <AnimatedBody
               text={
-                "I’m Arpit, a passionate Full-Stack Developer with over 2 years of experience in crafting scalable and high-performance web applications. My passion lies in creating software that solves real-world problems and positively impacts people’s lives."
+                "I’m Arpit, a passionate Software Engineer with over 3+ years of experience in crafting scalable and high-performance web applications. My passion lies in creating software that solves real-world problems and positively impacts people’s lives."
               }
             />
             <AnimatedBody
@@ -83,7 +83,7 @@ const About = () => {
               />
               <AnimatedBody
                 text={
-                  "Node, Express.js, Redis, TypeScript, EJS, JWT, Passport, Postmen, Soket.io, Restful-api, GraphQL."
+                  "Spring Boot, java, Node, Express.js, Redis, TypeScript, EJS, JWT, Passport, Postmen, Soket.io, Restful-api, GraphQL."
                 }
               />
             </div>

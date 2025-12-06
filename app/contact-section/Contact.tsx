@@ -84,15 +84,6 @@ const Contact = () => {
               />
               <Link href="mailto:arpitsahu358@gmail.com?subject=Lets%20work%20together!&amp;body=Hello%2C%20I%20think%20we%20need%20you%20to%20work%20on%2Fcollaborate%20this%20particular%20product...%20Reach%20out%20as%20soon%20as%20you%20can." className="mt-2 underline lowercase ">arpitsahu358@gmail.com</Link>
             </div>
-            <div className="flex flex-col mt-4">
-            <AnimatedBody
-                text={"Contact me"}
-                className={
-                  "-mb-1 inline-block overflow-hidden bor der ml-2 md:-ml-[8px] sm:-mb-2 md:-mb-3 lg:-mb-4 pb-2 pl-2 "
-                }
-              />
-              <Link href="tel:+916267646211" className="mt-2 underline lowercase ">+91 6267646211</Link>
-            </div>
             
           </div>
 

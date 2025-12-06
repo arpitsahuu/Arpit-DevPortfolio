@@ -4,7 +4,7 @@ import { monaSans } from "../fonts/monaSans";
 import { motion } from "framer-motion";
 import { imageAnimation, bodyAnimation } from "../animations/animations";
 import AnimatedWords from "../animations/AnimatedWords";
-import profile from "../../public/arptibg1.png";
+import profile from "../../public/newprofile.png";
 import AnimatedWordsrole from "../animations/AnimatedWordsrole";
 
 const Hero = () => {
@@ -82,7 +82,7 @@ const Hero = () => {
             style="inline-block overflow-hidden pt-1 -mr-4 sm:-mr-5 md:-mr-7 lg:-mr-9 -mb-1 sm:-mb-2 md:-mb-3 lg:-mb-4 "
           />
           <AnimatedWordsrole
-          title="FULL STACK DEVELOPER "
+          title="SOFTWARE DEVELOPER "
           style="inline-block overflow-hidden pt-1 -mr-4 sm:-mr-5 md:-mr-7 lg:-mr-9 -mb-1 sm:-mb-2 md:-mb-3 lg:-mb-4 "
           />
           <motion.div
@@ -111,14 +111,14 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
-            Full Stack Developerr with (2+ Exe) at{" "}
+            Software Developer with (3+ Exe) at{" "}
             <Link
-              href="http://worldsoftitsolution.com"
+              href="https://codezilla.io"
               target="_blank"
               className="underline underline-offset-2 hover:no-underline"
               aria-label="Mono Website"
             >
-              Worldsoft IT Solution,
+              Codezilla Technology,
             </Link> currently available for work.
           </p>
         </motion.div>
@@ -128,7 +128,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
-          Focused on building scalable web applications with expertise in the MERN stack and AWS, based in Bhopal, India.
+          Focused on creating secure and scalable web apps with solid backend experience, based in Indor, India.
           </p>
         </motion.div>
       </div>
